@@ -3,12 +3,13 @@ total_sales = {"John_Doe" : ['three',4,3,2], "Jane_Doe" : [1,6,3,9], "Joe_Doe" :
 
 def yearly_total(list):
     try:
-        return sum(list)
+        result = sum(list)
+        if result < 0:
+            raise Exception("Verify Data.  Total sales should not be negative")
+        return result
     except TypeError:
         return f"Error, Unable to total {list}"   
 
-if yearly_total < 0:
-    raise Exception("Verify Data.  Total sales should not be negative")
 
 
 John_Doe_total = yearly_total(total_sales["John_Doe"])
