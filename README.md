@@ -14,3 +14,7 @@
 ###### 7.  [Line_Graph_Functions](line_graph_functions.png)
 ###### 8.  [User_Interface](User_Interface.png)
 ###### 9.  [Calling_Function](calling_function.png)
+
+### The Raw Data
+##### 1. [Congressional Session 115](Congressional Session 115.csv)
+##### 1. [Congressional Session 117](Congressional Session 117.csv)
