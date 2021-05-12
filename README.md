@@ -2,7 +2,7 @@
 ## Reviewing Senator Voting Record in Relationship to How Party Votes
 
 ### The Analysis
-##### 1.  [Analysis_Document](Handful_of_Claims.docx)
+###### 1.  [Analysis_Document](Handful_of_Claims.docx)
 
 ### The Code
 ###### 1.  [Process Map](Process_Map.docx)
