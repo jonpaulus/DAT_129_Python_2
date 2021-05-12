@@ -1,5 +1,5 @@
 # Final Project
-## Evaluating if Younger Senators Defy Their Parties
+## Evaluating Political Party Loyalty Through Voting
 
 ###### 0.  [Process Map](Process_Map.docx)
 ###### 1.  [Required Libraries](Required_Libaries.png)
