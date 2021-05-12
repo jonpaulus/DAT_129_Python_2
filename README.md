@@ -8,5 +8,5 @@
 ###### 4.  [CSV_Function](CSV_Function)
 ###### 5.  [Scatter_Plot_Functions](scatter_plot_functions.png)
 ###### 6.  [Line_Graph_Functions](line_graph_functions.png)
-###### 7.  [User_Interface]
-###### 8.  [Calling_Function]
+###### 7.  [User_Interface](User_Interface.png)
+###### 8.  [Calling_Function](calling_functions.png)
