@@ -1,5 +1,5 @@
 # Final Project
-## Evaluating Political Party Loyalty Through Voting
+## Calculating Senator Voting Record in Relationship to How Party Votes
 
 ###### 0.  [Process Map](Process_Map.docx)
 ###### 1.  [Required Libraries](Required_Libaries.png)
