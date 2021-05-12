@@ -17,4 +17,4 @@
 
 ### The Raw Data
 ##### 1. [Congressional Session 115](https://github.com/jonpaulus/DAT_129_Python_2/blob/bf91f3c3bc5aebd6c26b8db7d04911c7b2d771f5/Congressional%20Session%20115.csv)
-##### 1. [Congressional Session 117](Congressional_Session_117.csv)
+##### 1. [Congressional Session 117](https://github.com/jonpaulus/DAT_129_Python_2/blob/0f07a3e8e7f6829e043d93af5f2f1c4461e53f51/Congressional%20Session%20117.csv)
